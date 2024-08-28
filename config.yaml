@@ -1,0 +1,12 @@
+scraper:
+  week_number: 1
+
+optimizer:
+  salary_cap: 50000
+  positions:
+    - QB
+    - RB
+    - WR
+    - TE
+    - FLEX
+    - DST
